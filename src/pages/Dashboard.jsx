@@ -8,7 +8,7 @@ import JobForm from "../components/JobForm";
 import CandidatePipeline from "../components/CandidatePipeline";
 
 import { jobs as initialJobs } from "../data/jobs";
-import { candidates } from "../data/candidates";
+import { candidates } from "../data/Candidates";
 
 function Dashboard({ onLogout }) {
   const [jobList, setJobList] = useState(initialJobs);
