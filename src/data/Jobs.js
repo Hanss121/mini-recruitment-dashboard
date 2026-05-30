@@ -1,0 +1,38 @@
+export const jobs = [
+  {
+    id: 1,
+    title: "Frontend Developer",
+    department: "Engineering",
+    location: "Remote",
+    status: "Open",
+    applicants: 12,
+    createdAt: "2026-05-01",
+  },
+  {
+    id: 2,
+    title: "Backend Developer",
+    department: "Engineering",
+    location: "Jakarta",
+    status: "Open",
+    applicants: 18,
+    createdAt: "2026-05-03",
+  },
+  {
+    id: 3,
+    title: "UI/UX Designer",
+    department: "Product",
+    location: "Bandung",
+    status: "Draft",
+    applicants: 5,
+    createdAt: "2026-05-05",
+  },
+  {
+    id: 4,
+    title: "HR Specialist",
+    department: "Human Resource",
+    location: "Surabaya",
+    status: "Closed",
+    applicants: 10,
+    createdAt: "2026-05-08",
+  },
+];
