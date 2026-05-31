@@ -35,6 +35,8 @@ src
 └── index.css
 ```
 
+## Penilaian
+
 ### Problem Solving
 
 Aplikasi membantu HR/Admin melihat ringkasan recruitment, mengelola lowongan kerja, mencari dan memfilter job, menambahkan job baru, serta melihat kandidat berdasarkan pipeline rekrutmen.
